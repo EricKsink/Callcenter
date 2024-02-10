@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1682716257 source:c:\proyectos estructura de datos\callcenter1.0\cliente.cpp
+	"cliente.hpp"
+	<iostream>
+
+1682714917 c:\proyectos estructura de datos\callcenter1.0\cliente.hpp
+	<iostream>
+	"nombre.hpp"
+	"tiempo.hpp"
+
+1677598408 c:\proyectos estructura de datos\callcenter1.0\nombre.hpp
+	<string>
+	<iostream>
+	<cstdio>
+
+1677599491 c:\proyectos estructura de datos\callcenter1.0\tiempo.hpp
+	<string>
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<chrono>
+
+1682743168 source:c:\proyectos estructura de datos\callcenter1.0\listaclientes.cpp
+	"listaclientes.hpp"
+
+1682743215 c:\proyectos estructura de datos\callcenter1.0\listaclientes.hpp
+	<string>
+	<fstream>
+	"nodocliente.hpp"
+	"listaexcepcion.hpp"
+
+1682743089 c:\proyectos estructura de datos\callcenter1.0\nodocliente.hpp
+	"cliente.hpp"
+
+1682742991 c:\proyectos estructura de datos\callcenter1.0\listaexcepcion.hpp
+	<exception>
+	<string>
+
+1682743218 source:c:\proyectos estructura de datos\callcenter1.0\nodocliente.cpp
+	"nodocliente.hpp"
+
+1680163236 source:c:\proyectos estructura de datos\callcenter1.0\nombre.cpp
+	"nombre.hpp"
+	<string>
+	<iostream>
+
+1682718867 source:c:\proyectos estructura de datos\callcenter1.0\tiempo.cpp
+	"tiempo.hpp"
+
+1682732929 source:c:\proyectos estructura de datos\callcenter1.0\agente.cpp
+	"agente.hpp"
+
+1682743408 c:\proyectos estructura de datos\callcenter1.0\agente.hpp
+	<string>
+	<iostream>
+	"tiempo.hpp"
+	"nombre.hpp"
+	"listaclientes.hpp"
+
+1682743170 source:c:\proyectos estructura de datos\callcenter1.0\listaagentes.cpp
+	"listaagentes.hpp"
+
+1682743214 c:\proyectos estructura de datos\callcenter1.0\listaagentes.hpp
+	<string>
+	<fstream>
+	"nodoagente.hpp"
+	"agente.hpp"
+
+1682743048 c:\proyectos estructura de datos\callcenter1.0\nodoagente.hpp
+	<exception>
+	<string>
+	"agente.hpp"
+
+1682743217 source:c:\proyectos estructura de datos\callcenter1.0\nodoagente.cpp
+	"nodoagente.hpp"
+
+1682743219 source:c:\proyectos estructura de datos\callcenter1.0\main.cpp
+	<iostream>
+	"menucliente.hpp"
+	"listaclientes.hpp"
+
+1682743416 c:\proyectos estructura de datos\callcenter1.0\menucliente.hpp
+	"listaclientes.hpp"
+	"nodocliente.hpp"
+	"cliente.hpp"
+	"tiempo.hpp"
+	"menuagente.hpp"
+
+1682743424 c:\proyectos estructura de datos\callcenter1.0\menuagente.hpp
+	"agente.hpp"
+	"tiempo.hpp"
+	"nombre.hpp"
+	"listaclientes.hpp"
+	"listaagentes.hpp"
+	"menucliente.hpp"
+
+1682898358 source:c:\proyectos estructura de datos\callcenter1.0\menuagente.cpp
+	"menuagente.hpp"
+
+1682718641 source:c:\proyectos estructura de datos\callcenter1.0\menucliente.cpp
+	"menucliente.hpp"
+
